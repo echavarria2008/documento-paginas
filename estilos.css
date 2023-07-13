@@ -18,6 +18,34 @@
     background-repeat: no-repeat;
     
     }
+      
+    .fs{
+    
+        background-image: url("socialesjpg.jpg");
+        
+    
+        background-repeat: no-repeat;
+        
+        }
+        .f5{
+    
+            background-image: url("bologiafng.jpg");
+            
+        
+            background-repeat: no-repeat;
+            
+            }
+            .f3{
+    
+                background-image: url("mate.jpg");
+                
+            
+                background-repeat: no-repeat;
+                
+                }
+        
+    
+    
     
     
     
@@ -37,7 +65,7 @@
     
     left: 180px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("");
     
     }
     
