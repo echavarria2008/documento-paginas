@@ -1,0 +1,142 @@
+
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image: url("px.png");
+    
+
+    background-repeat: no-repeat;
+    
+    }
+      
+    .fs{
+    
+        background-image: url("socialesjpg.jpg");
+        
+    
+        background-repeat: no-repeat;
+        
+        }
+        .f5{
+    
+            background-image: url("bologiafng.jpg");
+            
+        
+            background-repeat: no-repeat;
+            
+            }
+            .jp{
+    
+                background-image: url("ingles2.jpeg");
+                
+            
+                background-repeat: no-repeat;
+                
+                }
+                .gt{
+    
+                    background-image: url("tecnologia3.jpg");
+                    
+                
+                    background-repeat: no-repeat;
+                    
+                    }
+                    .soc{
+    
+                        background-image: url("fondos\ historia.jpg");
+                        
+                    
+                        background-repeat: no-repeat;
+                        
+                        }
+                        .sht{
+    
+                            background-image: url("matematicas.jpg");
+                            
+                        
+                            background-repeat: no-repeat;
+                            
+                            }
+                            .st{
+    
+                                background-image: url("hinduismo.jpg");
+                                
+                            
+                                background-repeat: no-repeat;
+                                
+                                }
+                                
+                                .contenido{
+
+                                    height: 280px;
+                                    
+                                    width: 100%;
+                                    
+                                    position: absolute;
+                                    
+                                    top: 410px;
+                                    
+                                     
+                                    
+                                    }
+                                    
+                                     
+                                    
+                                    .imgsoc{
+                                    
+                                     
+                                    
+                                    background-repeat: no-repeat;
+                                    
+                                    float: right;
+                                    
+                                    height: 200px;
+                                    
+                                    width: 260px;
+                                    
+                                    margin-left: 0px;
+                                    
+                                    margin: right 0px;
+                                    
+                                    background-image: url("mapacondiccion.jpeg");
+                                    
+                                    }
+                                    
+                                    
+                                    
+                                    .textosoc{
+                                    
+                                    text-align: justify;
+                                    
+                                    color: rgb(0, 0, 0);
+                                    
+                                    font-size: 20px;
+                                    
+                                    
+                                    
+                                    }
+
+                                    
+                                    
+    
+
+            
+        
+    
+    
+    
+    
+    
+   
+    
+    
