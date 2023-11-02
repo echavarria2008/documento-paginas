@@ -1,3 +1,4 @@
+
 *{
 
     padding: 0px;
@@ -11,113 +12,133 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("px.png");
     
-    background-repeat: no-repeat;
-    
-    }
-    
-    .Fondotecnologia{
-    
-        background-image: url("rxmm.jpg");
-        
-        background-repeat: no-repeat;
-        
-        }
-    
-    
-    .img{
-    
-    position: relative;
-    
-     
-    
-    width: 190px;
-    
-    height: 190px;
-    
-    border-radius: 10px;
-    
-    background-repeat: no-repeat;
-    
-     
-    
-    left: 180px;
-    
-    background-image: url("medellin.jpeg");
-    
-    }
-    
-    .contenedor{
-    
-     
-    
-    height: 230px;
-    
-     
-    
-    }
-    
-    .texto{
-    
-    font-size: 40px;
-    
-    text-align: justify;
-    
-    color: brown;
-    
-     
-    
-    }
-        
-    .contenido{
 
-        height: 280px;
+    background-repeat: no-repeat;
+    
+    }
+      
+    .fs{
+    
+        background-image: url("socialesjpg.jpg");
         
-        width: 100%;
-        
-        position: absolute;
-        
-        top: 410px;
-        
-         
-        
-        }
-        
-         
-        
-        .imagensociales{
-        
-         
-        
+    
         background-repeat: no-repeat;
         
-        float:left;
+    }
+    .f5{
+    
+    background-image: url("bologiafng.jpg");
+            
+    
+    background-repeat: no-repeat;
+            
+    }
+    .jp{
+    
+    background-image: url("ingles2.jpeg");
+                
+            
+   background-repeat: no-repeat;
+                
+   }
+   .gt{
+    
+    background-image: url("tecnologia3.jpg");
+                    
+                
+    background-repeat: no-repeat;
+                    
+    }
+    .soc{
+    
+    background-image: url("fondos\ historia.jpg");
+                        
+                    
+   background-repeat: no-repeat;
+                        
+  }
+ .sht{
+    
+   background-image: url("matematicas.jpg");
+                            
+                        
+   background-repeat: no-repeat;
+                            
+  }
+ .st{
+    
+     background-image: url("hinduismo.jpg");
+                                
         
-        height: 200px;
+   background-repeat: no-repeat;
+                                
+  }
+                                
+ .contenido{
+
+ height: 280px;
+                                    
+ width: 100%;
+                                    
+ position: absolute;
+                                    
+   top: 410px;
+                                    
+                                     
+                                    
+   }
+                                    
+                                     
+                                    
+  .imgsoc{
+                                    
+                                     
+                                    
+  background-repeat: no-repeat;
+                                    
+   float: right;
+                                     
+    height: 200px;
+                                    
+    width: 260px;
+                                    
+    margin-left: 0px;
+                                    
+   margin: right 0px;
+                                    
+   background-image: url("mapacondiccion.jpeg");
+                                    
+  }
+                                    
+                                    
+                                    
+   .texto{
+                                    
+  text-align:justify;
+                                    
+  color: rgb(242, 81, 7);
+                                    
+  font-size: 30px;
+                                    
+                                    
+                                    
+  }
+
+  
+  
+                                    
+                                    
+    
+
+            
         
-        width: 260px;
-        
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("medellin.jpeg");
-        
-        }
-        
-        
-        
-        .textosociales{
-        
-        text-align: justify;
-        
-        color: azure;
-        
-        font-size: 20px;
-        
-        
-        
-        }
-        
-        
+    
+    
+    
+    
+    
+   
+    
+    
