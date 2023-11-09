@@ -92,40 +92,82 @@
                                     
                                      
                                     
-  .imgsoc{
+  
+   .imagen{
                                     
                                      
                                     
-  background-repeat: no-repeat;
-                                    
-   float: right;
-                                     
-    height: 200px;
-                                    
-    width: 260px;
-                                    
-    margin-left: 0px;
-                                    
-   margin: right 0px;
-                                    
-   background-image: url("mapacondiccion.jpeg");
-                                    
-  }
-                                    
-                                    
-                                    
-   .texto{
-                                    
-  text-align:justify;
-                                    
-  color: rgb(242, 81, 7);
-                                    
-  font-size: 30px;
-                                    
-                                    
-                                    
-  }
+    background-repeat: no-repeat;
+                                      
+     float: right;
+                                       
+      height: 200px;
+                                      
+      width: 260px;
+                                      
+      margin-left: 5px;
+      
+      margin-right:5px ;
 
+      background-image: url(mapacondiccion.jpeg);
+                                      
+                                      
+    }
+
+
+
+    .imageningles1{
+                                    
+                                     
+                                    
+      background-repeat: no-repeat;
+                                        
+       float: right;
+                                         
+        height: 200px;
+                                        
+        width: 260px;
+                                        
+        margin-left: 5px;
+        
+        margin-right:5px ;
+  
+        background-image: url(imageningles1.jpg);
+                                        
+                                        
+      }
+          
+    
+
+   
+    
+    
+    
+
+                                    
+  .texto{
+                                    
+    text-align:justify;
+                                      
+    color: rgb(242, 226, 7);
+                                      
+    font-size: 50px;
+                                      
+                                      
+                                      
+    }
+    .textoingles{
+                                    
+      text-align:justify;
+                                        
+      color: rgb(242, 226, 7);
+                                        
+      font-size: 60px;
+                                        
+                                        
+                                        
+      }
+      
   
   
                                     
