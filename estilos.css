@@ -109,7 +109,7 @@
       
       margin-right:5px ;
 
-      background-image: url(mapacondiccion.jpeg);
+      background-image: url(px.png);
                                       
                                       
     }
@@ -126,7 +126,7 @@
                                          
         height: 200px;
                                         
-        width: 260px;
+        width: 200px;
                                         
         margin-left: 5px;
         
@@ -136,10 +136,27 @@
                                         
                                         
       }
-          
-    
 
-   
+      .imagensociales1{
+                                    
+                                     
+                                    
+        background-repeat: no-repeat;
+                                          
+         float: right;
+                                           
+          height: 1010px;
+                                          
+          width: 1000px;
+                                          
+          margin-left: 10px;
+          
+          margin-right:10px ;
+    
+          background-image: url(imagensociales1.jpg);
+                                          
+                                          
+        }
     
     
     
